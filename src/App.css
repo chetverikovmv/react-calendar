@@ -1,11 +1,4 @@
-.table-header {
-  display: flex
-}
-.table-row {
-  display: flex
-}
-.day {
-  border: 1px solid gray;
-  padding: 5px;
-  width: 20px;
+.exaple-wrapper-margin {
+  margin-left: 25px;
+  margin-top: 25px; 
 }

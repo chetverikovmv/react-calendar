@@ -1,13 +1,12 @@
-import React from 'react';
 import './App.css';
-import { Calendar } from './components/Calendar/Calendar';
+import { Page } from './pages/Page';
 
 function App() {
   return (
-    <div>
-      <Calendar />
+    <div className='exaple-wrapper-margin'>
+    <Page />
     </div>
-  );
+  )
 }
 
 export default App;
