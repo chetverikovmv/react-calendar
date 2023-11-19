@@ -1,4 +1,4 @@
-# React + TS calendar component (date picker)
+# Pet-проект: React + TS calendar component (date picker)
 
 -  https://react-calendar-5d802.web.app/
 
